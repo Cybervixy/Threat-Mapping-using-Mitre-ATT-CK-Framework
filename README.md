@@ -2,7 +2,7 @@
 
 ## Introduction
 Cyber-attacks are becoming increasingly sophisticated, leveraging advanced tactics, techniques, and procedures (TTPs) to evade detection and maximize impact. This document explores the use of the MITRE ATT&CK framework to analyze a recent cyber-attack. The attack, titled "Cybercriminals Use Excel Exploit to Spread Fileless Remcos RAT Malware," highlights how threat actors exploit vulnerabilities, such as CVE-2017-0199, and leverage legitimate tools to deploy malicious payloads.
-![image view](Screenshot 2025-01-22 010220.png)
+
 ### Objective
 To use the MITRE ATT&CK framework to map out the tactics, techniques, and procedures (TTPs) of a recent cyber-attack and provide actionable insights for detecting and mitigating similar threats.
 
