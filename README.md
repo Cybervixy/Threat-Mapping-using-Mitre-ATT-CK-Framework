@@ -74,3 +74,5 @@ This project demonstrates the practical application of the MITRE ATT&CK framewor
 
 ## Thank you
 Victoria Simon 
+
+![Image](https://github.com/user-attachments/assets/e18db833-83f6-43d1-9f66-b441e221f430)
