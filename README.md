@@ -11,6 +11,7 @@ Identify and describe the relevant tactics, techniques, and procedures (TTPs) us
 ![Visual Representation](https://github.com/Cybervixy/Threat-Mapping-using-Mitre-ATT-CK-Framework/blob/491b0915a549c50abc4a6babd55ca53f7a554594/Screenshot%202025-01-22%20010707.png)
 
 **Remcos RAT** (Remote Control and Surveillance Software) is a commercially available remote access tool (RAT) that is often repurposed by cybercriminals for malicious activities. While marketed as legitimate software for system administration and monitoring, it is frequently used in cyber-attacks to gain unauthorized access, maintain persistence, and conduct espionage.
+![Remcos Rat](https://github.com/Cybervixy/Threat-Mapping-using-Mitre-ATT-CK-Framework/blob/ea32ffba7b6a7a21137955121adb85f38fe2c98c/Screenshot%202025-01-22%20010220.png)
 
 ## Threat Mapping Using MITRE ATT&CK Framework
 
