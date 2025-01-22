@@ -8,7 +8,7 @@ To use the MITRE ATT&CK framework to map out the tactics, techniques, and proced
 
 ### Task
 Identify and describe the relevant tactics, techniques, and procedures (TTPs) used in the attack "Cybercriminals Use Excel Exploit to Spread Fileless Remcos RAT Malware" as detailed in the article available at [The Hacker News](https://thehackernews.com/2024/11/cybercriminals-use-excel-exploit-to.html).
-
+![Visual Representation](https://github.com/Cybervixy/Threat-Mapping-using-Mitre-ATT-CK-Framework/blob/491b0915a549c50abc4a6babd55ca53f7a554594/Screenshot%202025-01-22%20010707.png)
 
 **Remcos RAT** (Remote Control and Surveillance Software) is a commercially available remote access tool (RAT) that is often repurposed by cybercriminals for malicious activities. While marketed as legitimate software for system administration and monitoring, it is frequently used in cyber-attacks to gain unauthorized access, maintain persistence, and conduct espionage.
 
