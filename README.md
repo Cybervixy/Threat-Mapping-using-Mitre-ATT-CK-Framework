@@ -12,12 +12,7 @@ Identify and describe the relevant tactics, techniques, and procedures (TTPs) us
 
 **Remcos RAT** (Remote Control and Surveillance Software) is a commercially available remote access tool (RAT) that is often repurposed by cybercriminals for malicious activities. While marketed as legitimate software for system administration and monitoring, it is frequently used in cyber-attacks to gain unauthorized access, maintain persistence, and conduct espionage.
 
-
-![Screenshot 2025-01-22 010220](https://github.com/user-attachments/assets/433957f1-fc30-4638-80ea-33b01fc83239.png)
-Visual representaion of how Remcos RAT Operate in a server
-
-
-
+![Image](https://github.com/user-attachments/assets/e18db833-83f6-43d1-9f66-b441e221f430)
 ## Threat Mapping Using MITRE ATT&CK Framework
 
 ### Attack Summary
